@@ -5,7 +5,7 @@
         "version": "1.0",
         "description": "Import from \"domtest\" Function App"
     },
-    "basePath": "https://domtest.azurewebsites.net/api",
+    "basePath": "https://domtest.azurewebsites.net",
     "schemes": [
         "https"
     ],
