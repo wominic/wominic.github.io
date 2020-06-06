@@ -30,7 +30,7 @@
         }
     ],
     "paths": {
-        "/Test": {
+        "api/Test": {
             "get": {
                 "description": "Test",
                 "operationId": "get-test",
