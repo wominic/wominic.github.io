@@ -26,7 +26,6 @@
             "schema": {}
           }
         },
-        "security": [],
         "summary": "Obtains SharePoint location data given a ProLink XML string."
       }
     }
