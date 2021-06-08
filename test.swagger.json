@@ -33,6 +33,12 @@
     "parameters": {},
     "responses": {},
     "securityDefinitions": {},
-    "security": [],
+        "security": [
+        {
+            "apiKeyHeader": []
+        },
+        {
+            "apiKeyQuery": []
+        }],
     "tags": []
 }
