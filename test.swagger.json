@@ -1,0 +1,39 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "ProLinkUtils",
+        "description": "",
+        "version": "1.0"
+    },
+    "host": "prolinkutils.azurewebsites.net",
+    "basePath": "/",
+    "schemes": [
+        "https"
+    ],
+    "consumes": [],
+    "produces": [],
+    "paths": {
+        "/api/GetProLinkSharePointData": {
+            "post": {
+                "operationId": "GetProLinkSharePointData",
+                "description": "Description.",
+                "parameters": [],
+                "produces": [],
+                "responses": {
+                    "default": {
+                        "description": "default",
+                        "schema": {}
+                    }
+                },
+                "security": [],
+                "summary": "Obtains SharePoint location data given a ProLink XML string."
+            }
+        }
+    },
+    "definitions": {},
+    "parameters": {},
+    "responses": {},
+    "securityDefinitions": {},
+    "security": [],
+    "tags": []
+}
